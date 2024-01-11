@@ -1,0 +1,1 @@
+# Shortest_Word_Codewars_Challenge
